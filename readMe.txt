@@ -1,0 +1,1 @@
+This xyz program is better at handling irregular hx19 startup than the programs previously offered
